@@ -1,8 +1,6 @@
 # static-content
 
-
 NGINX sample to serve static content
-
 
 Build image
 
@@ -14,6 +12,7 @@ Run image
 ----
 
 Sample includes
- - html file
- - image file
- - json file
+
+- html file
+- image file
+- json file
